@@ -24,10 +24,15 @@ Here are some ideas to get you started:
   - JavaScript: *basics*
   - Go: *basics*
 - 💾 I'm already armed with:
-  - Foundations in programming (Fall 2021)
+  - Foundations in programming
+  - Object-oriented programming
 - 🌱 I’m currently learning:
-  - Data structure and algorithms (Fall 2023)
-  - Computer architecture (Fall 2023)
+  - Data structure and algorithms
+  - Computer architecture
 - 📌 I'm planning to learn:
-  - Network programming with Go (Fall 2023)
+  - Network programming with Go
+  - Data science with Python
+  - Desktop development with C#
+  - Game development with Unity
+  - Computer graphics with C++
 - 📫 How to reach me: email to me@huizm.cn
