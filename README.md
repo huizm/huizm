@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   - Berkeley's CS61b projs
 - 🔤 My languages:
   - Python: *basics*
-  - C: *familiar*
+  - C: *good at it*
   - Java: *beginner*
   - JavaScript: *basics*
   - Go: *basics*
