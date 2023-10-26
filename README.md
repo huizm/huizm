@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on:
-  - XJTUANA training
+  - Berkeley's CS61b projs
 - 🔤 My languages:
   - Python: *basics*
   - C: *familiar*
