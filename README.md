@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   - Computer architecture
 - 📌 I'm planning to learn:
   - Network programming with Go
+  - Web development with JavaScript
   - Data science with Python
   - Desktop development with C#
   - Game development with Unity
