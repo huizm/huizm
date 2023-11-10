@@ -18,14 +18,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on:
   - Berkeley's CS61b projs
 - 🔤 My languages:
-  - Python: *basics*
+  - Python: *familiar*
   - C: *good at it*
-  - Java: *beginner*
+  - Java: *familiar*
   - JavaScript: *basics*
   - Go: *basics*
-- 💾 I'm already armed with:
-  - Foundations in programming
-  - Object-oriented programming
 - 🌱 I’m currently learning:
   - Data structure and algorithms
   - Computer architecture
