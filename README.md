@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on:
-  - Berkeley's CS61b projs
+  - [huizm/keine-copilot](https://github.com/huizm/keine-copilot)
 - 🔤 My languages:
-  - Python: *familiar*
   - C: *good at it*
+  - C#: *familiar*
+  - Python: *familiar*
   - Java: *familiar*
   - JavaScript: *basics*
   - Go: *basics*
