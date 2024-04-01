@@ -17,12 +17,10 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/ac97d4aa-411c-4e40-bae4-c9f49ffb893e.svg)](https://wakatime.com/@ac97d4aa-411c-4e40-bae4-c9f49ffb893e)
 
-- 🔤 My languages:
+- 🔤 Languages:
   ```text
-        Java        Go
-               C            C#
-       Python     JavaScript
+        C/C++
+  Go      Java      C#
+     Python     Javascript
+          ASM
   ```
-- 🌱 I’m currently learning:
-  - Data structure and algorithms
-  - Computer architecture
