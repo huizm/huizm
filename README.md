@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 
 - 🔤 Languages:
   ```text
-        C/C++
-  Go      Java      C#
-     Python     Javascript
+  Currently learning Rust
+  
+       C/C++    Go
+   Java      C#
+     Python     JavaScript
           ASM
   ```
