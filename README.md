@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🗿 Milestones:
 
-  - 500 hours of coding on November 10, 2024 when working on [LearningOS/2024a-rcore-huizm](https://github.com/LearningOS/2024a-rcore-huizm)
+  - ⏳ 500 hours of coding on November 10, 2024 when working on [LearningOS/2024a-rcore-huizm](https://github.com/LearningOS/2024a-rcore-huizm)
 
     ```
     Go   ++++++++++++++ (96 hrs 19 mins)
