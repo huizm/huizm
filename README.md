@@ -27,5 +27,4 @@ Here are some ideas to get you started:
     Rust +++++++++      (68 hrs 18 mins)
     C    +++++          (38 hrs  9 mins)
     Java +++            (22 hrs 23 mins)
-    ...
     ```
