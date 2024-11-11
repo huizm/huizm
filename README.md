@@ -27,6 +27,6 @@ Here are some ideas to get you started:
     C          ++++++++++++++       ( 73 hrs 20 mins)
     Rust       +++++++++++++        ( 68 hrs 20 mins)
     Java       +++++++++            ( 45 hrs 18 mins)
-    Python     ****                 ( 20 hrs 31 mins)
-    JavaScript **                   ( 11 hrs 49 mins)
+    Python     ++++                 ( 20 hrs 31 mins)
+    JavaScript ++                   ( 11 hrs 49 mins)
     ```
