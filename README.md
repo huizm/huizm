@@ -22,11 +22,11 @@ Here are some ideas to get you started:
   - ⏳ 500 hours of coding on November 10, 2024 when working on [LearningOS/2024a-rcore-huizm](https://github.com/LearningOS/2024a-rcore-huizm)
 
     ```
-    Go         ++++++++++++++++++++ (100 hrs 46 mins)
-    C++        ++++++++++++++++++   ( 92 hrs 36 mins)
-    C          ++++++++++++++       ( 73 hrs 20 mins)
-    Rust       +++++++++++++        ( 68 hrs 20 mins)
-    Java       +++++++++            ( 45 hrs 18 mins)
-    Python     ++++                 ( 20 hrs 31 mins)
-    JavaScript ++                   ( 11 hrs 49 mins)
+    Go         | ++++++++++++++++++++ (100 hrs 46 mins) |
+    C++        | ++++++++++++++++++   ( 92 hrs 36 mins) |
+    C          | ++++++++++++++       ( 73 hrs 20 mins) |
+    Rust       | +++++++++++++        ( 68 hrs 20 mins) |
+    Java       | +++++++++            ( 45 hrs 18 mins) |
+    Python     | ++++                 ( 20 hrs 31 mins) |
+    JavaScript | ++                   ( 11 hrs 49 mins) |
     ```
