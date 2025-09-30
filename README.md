@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/ac97d4aa-411c-4e40-bae4-c9f49ffb893e.svg)](https://wakatime.com/@ac97d4aa-411c-4e40-bae4-c9f49ffb893e)
 
-Every time I lack goals and hope in life, [Rust](https://rust-lang.org/) saves me.
+Every time I lack goals and hope in life, [Rust 🦀](https://rust-lang.org/) saves me.
